@@ -1,4 +1,4 @@
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/2867798/original_7b3119e3caa0ac5e3b213cc0535ba932.gif" alt="walk through forest" height="300"/>
+<img src="./path.gif" alt="walk through forest" height="300"/>
 
 <!--
 "lightly" telegraph your next move:
